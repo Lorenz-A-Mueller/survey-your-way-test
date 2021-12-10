@@ -1,0 +1,8 @@
+{
+  "name": "survey-your-way-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Lorenz-A-Mueller/survey-your-way-test.git",
+  "author": "Lorenz-A-Mueller <lorenz.a.mueller@gmail.com>",
+  "license": "MIT"
+}
