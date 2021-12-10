@@ -32,5 +32,10 @@
   "resolutions": {
     "eslint-plugin-react": "7.26.1",
     "eslint-plugin-testing-library": "5.0.0"
+  },
+  "dependencies": {
+    "apollo-server-express": "^3.5.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
   }
 }
